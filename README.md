@@ -33,7 +33,6 @@ To install the dependencies for this project, clone the repository and install t
 ```bash
 git clone https://github.com/Rustam64/XGBoost.git
 cd XGBoost
-pip install -r requirements.txt
 ```
 
 If you are using Jupyter notebooks, you may also install Jupyter:
